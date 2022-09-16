@@ -1,2 +1,2 @@
-# ODIN_SIGN_UP_PAGE
+# This is a sign up page for my website 
 Sign up page
